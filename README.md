@@ -20,3 +20,7 @@
 * Spinner while loading data
 * login or sign up user using firebase (email/password and google pop up)
 * Implement Payment Gateway
+
+## Admin info
+### email: a@a.com
+### password: 12345678
